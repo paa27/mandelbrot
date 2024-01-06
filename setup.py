@@ -12,6 +12,7 @@ setup(
         'pandas',
         'numpy',
         'jupyter',
-        'ipympl'
+        'ipympl',
+
     ],
 )
